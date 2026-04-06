@@ -12,9 +12,6 @@
     <a href="https://www.linkedin.com/in/manish-samanta-660379294/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFyN%2F7MvZRG6sIaFhbHAAdw%3D%3D">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:abcdefghijklmnopqrstwxyz@example.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
   </p>
 </div>
 
@@ -37,6 +34,8 @@
 ### Frameworks & Libraries
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>&nbsp;&nbsp;
+ <img height="40px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=express" alt="Next.js" title="Express"/>&nbsp;&nbsp; 
 </p>
 
 ### Tools & Environment
@@ -44,6 +43,7 @@
   <img height="40px" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" title="Nodejs"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio"/>&nbsp;&nbsp;
 </p>
 

@@ -51,16 +51,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishSamanta23&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&area_color=30A3DC" height="300" alt="activity-graph" />
 </div>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=ManishSamanta23&theme=radical&hide_border=false" height="200" alt="Streak stats" style="max-width: 100%; min-width: 300px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishSamanta23&theme=radical&hide_border=false&layout=compact&count_private=true&include_all_commits=true" height="200" alt="Top languages" style="max-width: 100%; min-width: 300px;"/>
-</div>
-
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ManishSamanta23&color=blueviolet&style=flat-square" alt="Profile views" />
-  </p>
 </div>
 
 ## 🐍 Contribution Graph

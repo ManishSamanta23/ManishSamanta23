@@ -54,6 +54,11 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=ManishSamanta23&theme=radical&hide_border=false" height="200" alt="Streak stats" style="max-width: 100%; min-width: 300px;"/>
 </div>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ManishSamanta23&color=blueviolet&style=flat-square" alt="Profile views" />
+  </p>
+</div>
 
 ## 🐍 Contribution Graph
 <div align="center">
